@@ -1,5 +1,5 @@
 '''
-This project aims to develop a to-do list
+This project aims to develop a To-Do-List with a GUI  
 '''
 import tkinter 
 from tkinter import *
